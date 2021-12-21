@@ -1,5 +1,4 @@
 # Bikesharing
-# Bikesharing
 ## Overview of the statistical analysis:
 This project is designed to provide an analysis and feasibility study for a bike sharing program in Des Moines. 
 
